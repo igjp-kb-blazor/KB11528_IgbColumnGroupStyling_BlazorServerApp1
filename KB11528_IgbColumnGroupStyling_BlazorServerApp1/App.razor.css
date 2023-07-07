@@ -1,0 +1,7 @@
+﻿.my_wrapper {
+    margin: 1em;
+}
+
+::deep .my_header_group_classes > div.igx-grid-thead__title {
+    background: pink;
+}
